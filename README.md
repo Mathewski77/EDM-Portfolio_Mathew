@@ -1,3 +1,6 @@
+The background color is `#ffffff` for light mode and `#000000` for dark mode.
+
+
 ### <ins>EDM-Projects_MathewLacsina<ins>
 ### About Me
 Hi my name is Mathew Lacsina an irregular student who can multi-task
