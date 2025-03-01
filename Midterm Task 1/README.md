@@ -1,12 +1,21 @@
-The background color is `#ffffff` for light mode and `#000000` for dark mode.
+### <ins>Midterm Lab Task 1 - Data Cleaning and Preparation using Excel<ins>
+For this task we are given a Flat data from Excel (See rawfile) and we are Task to perform Data CLeaning and Preparation
 
+### STEP 1 Data Cleaning process
+<hr>
+-Load the raw file <BR>
+-Fit Column and row width and height <BR>
+-TRIM extra spaces <BR>
+-Remove NULL values <BR>
+-Remove Duplicates <BR>
 
-### <ins>EDM-Projects_MathewLacsina<ins>
-### About Me
-Hi my name is Mathew Lacsina an irregular student who can multi-task
-### Education:
-- College: City College of Angeles (BSIS)
-- High School:Holy angel University
-- Elementary: Nazarene Academy
-### My Projects
-Midterm Lab Task 1:[Data Cleaning and Preparation using Excel](Midterm%20Task%201/task1.md)
+### STEP 2 Normalization
+<hr>
+-Performed 1NF <BR>
+-Perform Table split using 2NF <BR>
+-Perform 3 NF <BR>
+-Mapped the Normalized tables as a Physical Data Model <BR>
+
+### STEP 3 Here's the screenshot of my output before I started data cleaning
+
+Midterm Lab Task 1:<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
