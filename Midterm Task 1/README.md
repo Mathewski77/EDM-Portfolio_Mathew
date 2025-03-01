@@ -23,3 +23,9 @@ Midterm Lab Task 1:<img src="Before Output.PNG" width="500" height="300"> <br>
 ### STEP 4 Here's the screenshot of my output after I started data cleaning (See screenshot)
 
 Midterm Lab Task 1:<img src="After Output.PNG" width="500" height="300"> <br>
+
+
+
+
+
+
