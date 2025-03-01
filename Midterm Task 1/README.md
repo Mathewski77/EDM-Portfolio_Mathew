@@ -24,6 +24,10 @@ For this task we are given a Flat data from Excel (See rawfile) and we are Task 
 
 <img src="After Output.PNG" width="500" height="300"> <br>
 
+### STEP 5 Here's the screenshot of my Data Model/Relationship
+
+<img src="DataModel.PNG" width="500" height="300"> <br>
+
 
 
 
