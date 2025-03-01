@@ -18,4 +18,4 @@ For this task we are given a Flat data from Excel (See rawfile) and we are Task 
 
 ### STEP 3 Here's the screenshot of my output before I started data cleaning
 
-Midterm Lab Task 1:<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
+Midterm Lab Task 1:<img src="Before Output.PNG" alt="Girl in a jacket" width="500" height="600">
