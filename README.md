@@ -1,4 +1,4 @@
-### **EDM-Projects_MathewLacsina**
+### <ins>EDM-Projects_MathewLacsina<ins>
 ### About Me
 Hi my name is Mathew Lacsina an irregular student who can multi-task
 ### Education:
