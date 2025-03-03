@@ -7,6 +7,8 @@ Hi I my name is..blah blah.....
 - High School:
 - Elementary:
 
+<img src="anime-night-sky-illustration.jpg" width="500" height="300"> <br>
+
 <html>
   <body>
       <p style="background-image: url('anime-night-sky-illustration.jpg');">
