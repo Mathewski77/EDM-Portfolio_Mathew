@@ -8,3 +8,5 @@ For this task we are given a Flat data from Excel (See rawfile) and we are Task 
 -TRIM extra spaces <BR>
 -Remove NULL values <BR>
 -Remove Duplicates <BR>
+
+background style
