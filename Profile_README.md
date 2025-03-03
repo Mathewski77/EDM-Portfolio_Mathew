@@ -7,5 +7,8 @@ Hi I my name is..blah blah.....
 - High School:
 - Elementary:
 
-
-<p style="background-image: url('anime-night-sky-illustration.jpg');">
+<html>
+  <body>
+      <p style="background-image: url('anime-night-sky-illustration.jpg');">
+  </body>
+</html>
