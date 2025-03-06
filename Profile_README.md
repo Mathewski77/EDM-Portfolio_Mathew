@@ -1,4 +1,4 @@
-## DM-Projects-LACSINA_MATHEW <br><hr>
+## DM-Projects-LACSINA_MATHEW <br>
 ### About Me<hr>
 Im a Gamer, Streamer, Youtuber, Kpop, Anime, Vtuber
 ### Education:<hr>
@@ -16,5 +16,6 @@ Im a Gamer, Streamer, Youtuber, Kpop, Anime, Vtuber
 **FRONTRO/ANGELES CITY (SEPT 2019-AUG 2020)**
 - A dynamic and rapidly exanping direct selling company in the health,beauty, and wellness industry in the Philippines today
 
-
-
+## MY PROJECTS
+- Midterm Lab Task1: <a href="https://github.com/Mathewski77/EDM-Portfolio_Mathew/tree/main/Midterm%20Task%201"> </a> 
+- Midterm Lab Task1: 
