@@ -1,9 +1,20 @@
-***DM-Projects-LACSINA_MATHEW***
-This is my Repo
-### About Me
+***DM-Projects-LACSINA_MATHEW*** <br><hr>
+### About Me<hr>
 Im a Gamer, Streamer, Youtuber, Kpop, Anime, Vtuber
-### Education:
+### Education:<hr>
 - College: City College of Angeles (BSIS)
 - High School: GAS STRAND (HOLY ANGEL UNIVERSITY)
 - Elementary: NAZARENE ACADEMY
+
+## WORK EXPERIENCE
+**GENERAL SERVICE OFFICE/ANGELES CITY(FEB 2022- PRESENT)**
+- Inventory of properties, Disposal of properties, Collate and disseminate information regarding prices, shipping and other cost of supplies and other items.
+
+**CAR BREEZY / ANGELES CITY(JULY 2021- SEPT 2021)**
+- A online marketing/selling through out for customers. Examples are air freshener for cars. Is the promotion of brands to connect with potential customers using the internet and other forms of digital communication
+
+**FRONTRO/ANGELES CITY (SEPT 2019-AUG 2020)**
+- A dynamic and rapidly exanping direct selling company in the health,beauty, and wellness industry in the Philippines today
+
+
 
