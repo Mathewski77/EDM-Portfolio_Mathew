@@ -17,5 +17,5 @@ Im a Gamer, Streamer, Youtuber, Kpop, Anime, Vtuber
 - A dynamic and rapidly exanping direct selling company in the health,beauty, and wellness industry in the Philippines today
 
 ## MY PROJECTS
-- Midterm Lab Task1: <a href="https://github.com/Mathewski77/EDM-Portfolio_Mathew/tree/main/Midterm%20Task%201"> </a> 
+- Midterm Lab Task1: <a href=https://github.com/Mathewski77/EDM-Portfolio_Mathew/tree/main/Midterm%20Task%201> </a> 
 - Midterm Lab Task1: 
