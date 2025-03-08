@@ -21,11 +21,4 @@ F. Copy the APPLIED steps as proof of your Data Cleaning Activities
 
 <img src="After_transformation.png" width="3000" height="300"> <br>
 
-
-Data Cleaning: <a href=[https://github.com/Mathewski77/EDM-Portfolio_Mathew/tree/main/Midterm%20Task%201](https://github.com/Mathewski77/EDM-Portfolio_Mathew/blob/main/Midterm%20task%202/Advanced%20Editor%20Part%201)> Proof of Data Cleaning ActivitiesL </a> 
-
-
-
-
-
-
+Midterm Lab Task1: <a href=https://github.com/Mathewski77/EDM-Portfolio_Mathew/blob/main/Midterm%20task%202/Advanced%20Editor%20Part%201> Data Cleaning and Preperation using EXCEL </a> 
