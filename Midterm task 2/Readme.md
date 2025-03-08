@@ -1,26 +1,23 @@
-### <ins>Midterm Lab Task 1 - Data Cleaning and Preparation using Excel<ins>
-For this task we are given a Flat data from Excel (See rawfile) and we are Task to perform Data CLeaning and Preparation
+### <ins>Midterm Lab Task 2 - Data Cleaning and Transformation Using Power Query Editor<ins>
+Company X would like to extract some useful information from the UnclenedDSJObs csv taken
+from a Job Posting site available in Kaggle. There are a lot of columns available but focus only
+on generating insights that will answer the ff:
 
-### STEP 1 Data Cleaning process
+### Here are your data-cleaning task:
 <hr>
--Load the raw file <BR>
--Fit Column and row width and height <BR>
--TRIM extra spaces <BR>
--Remove NULL values <BR>
--Remove Duplicates <BR>
+A. LSalary Estimate Column – Remove All the characters after the ( openparentheses) by GOING to
+B. Create 2 New Columns (From the Salary Estimate) Min Sal and Max Sal <BR>
+C. ADD COLUMN – Role Type <BR>
+D. SPLIT COLUMNS by Delimeter <BR>
+E. Select Location column (SPLIT columns by , Delimeter) <BR>
+F. Copy the APPLIED steps as proof of your Data Cleaning Activities
 
-### STEP 2 Normalization
-<hr>
--Performed 1NF <BR>
--Perform Table split using 2NF <BR>
--Perform 3 NF <BR>
--Mapped the Normalized tables as a Physical Data Model <BR>
 
-### STEP 3 Here's the screenshot of my output before I started data cleaning (See screenshot)
+### Here's the screenshot of my output before I started data cleaning (See screenshot)
 
 <img src="Before_transformation.png" width="500" height="300"> <br>
 
-### STEP 4 Here's the screenshot of my output after I started data cleaning (See screenshot)
+### Here's the screenshot of my output after I started data cleaning (See screenshot)
 
 <img src="After_transformation.png" width="500" height="300"> <br>
 
