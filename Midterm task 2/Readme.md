@@ -15,11 +15,11 @@ F. Copy the APPLIED steps as proof of your Data Cleaning Activities
 
 ### Here's the screenshot of my output before I started data cleaning (See screenshot)
 
-<img src="Before_transformation.png" width="900" height="300"> <br>
+<img src="Before_transformation.png" width="3000" height="300"> <br>
 
 ### Here's the screenshot of my output after I started data cleaning (See screenshot)
 
-<img src="After_transformation.png" width="500" height="300"> <br>
+<img src="After_transformation.png" width="3000" height="300"> <br>
 
 
 
