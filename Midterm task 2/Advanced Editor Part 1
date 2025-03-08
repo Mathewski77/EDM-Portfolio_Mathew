@@ -1,0 +1,44 @@
+let
+    Source = Excel.Workbook(File.Contents("C:\Users\GSO-PC\Downloads\Uncleaned_DS_jobs.xlsx"), null, true),
+    Uncleaned_DS_jobs_Sheet = Source{[Item="Uncleaned_DS_jobs",Kind="Sheet"]}[Data],
+    #"Promoted Headers" = Table.PromoteHeaders(Uncleaned_DS_jobs_Sheet, [PromoteAllScalars=true]),
+    #"Changed Type" = Table.TransformColumnTypes(#"Promoted Headers",{{"index", Int64.Type}, {"Job Title", type text}, {"Salary Estimate", type text}, {"Job Description", type text}, {"Rating", type number}, {"Company Name", type text}, {"Location", type text}, {"Headquarters", type any}, {"Size", type any}, {"Founded", Int64.Type}, {"Type of ownership", type any}, {"Industry", type any}, {"Sector", type any}, {"Revenue", type any}, {"Competitors", type any}}),
+    #"Extracted Text Before Delimiter" = Table.TransformColumns(#"Changed Type", {{"Salary Estimate", each Text.BeforeDelimiter(_, "("), type text}}),
+    #"Inserted Literal" = Table.AddColumn(#"Extracted Text Before Delimiter", "Literal", each "101", type text),
+    #"Renamed Columns" = Table.RenameColumns(#"Inserted Literal",{{"Literal", "Min Sal"}}),
+    #"Added Custom" = Table.AddColumn(#"Renamed Columns", "Role Type", each if Text.Contains([Job Title], "Data Scientist") then
+"Data Scientist"
+else if Text.Contains([Job Title], "Data Analyst") then
+"Data Analyst"
+
+else if Text.Contains([Job Title], "Data Engineer") then
+"Data Engineer"
+else if Text.Contains([Job Title], "Machine Learning") then
+"Machine Learning Engineer"
+else
+"other"),
+    #"Changed Type1" = Table.TransformColumnTypes(#"Added Custom",{{"Role Type", type text}}),
+    #"Added Custom1" = Table.AddColumn(#"Changed Type1", "Custom", each if [Location]= "New Jersey" then ", NJ"
+else if [Location] = "Remote" then ", other"
+else if [Location]= "United States" then ", other"
+else if [Location]= "Texas" then ", TX"
+else if [Location]= "Patuxent" then ", MA"
+else if [Location]= "California" then ", CA"
+else if [Location]= "Utah" then ", UT"
+else [Location]),
+    #"Split Column by Delimiter" = Table.SplitColumn(#"Added Custom1", "Custom", Splitter.SplitTextByDelimiter(",", QuoteStyle.Csv), {"Custom.1", "Custom.2"}),
+    #"Changed Type2" = Table.TransformColumnTypes(#"Split Column by Delimiter",{{"Custom.1", type text}, {"Custom.2", type text}}),
+    #"Renamed Columns1" = Table.RenameColumns(#"Changed Type2",{{"Custom.1", "Correction 1"}, {"Custom.2", "Correction 2"}}),
+    #"Replaced Value" = Table.ReplaceValue(#"Renamed Columns1","Anne Rundell","“MA”",Replacer.ReplaceText,{"Correction 2"}),
+    #"Renamed Columns2" = Table.RenameColumns(#"Replaced Value",{{"Correction 2", "State Abbreviations"}}),
+    #"Inserted Text Between Delimiters" = Table.AddColumn(#"Renamed Columns2", "Text Between Delimiters", each Text.BetweenDelimiters([Salary Estimate], "$", " ", 1, 0), type text),
+    #"Reordered Columns" = Table.ReorderColumns(#"Inserted Text Between Delimiters",{"index", "Job Title", "Salary Estimate", "Job Description", "Rating", "Company Name", "Location", "Headquarters", "Size", "Founded", "Type of ownership", "Industry", "Sector", "Revenue", "Competitors", "Min Sal", "Text Between Delimiters", "Role Type", "Correction 1", "State Abbreviations"}),
+    #"Renamed Columns3" = Table.RenameColumns(#"Reordered Columns",{{"Text Between Delimiters", "MAX Sal"}}),
+    #"Extracted Text Before Delimiter1" = Table.TransformColumns(#"Renamed Columns3", {{"Size", each Text.BeforeDelimiter(_, "employees"), type text}}),
+    #"Inserted Text Before Delimiter" = Table.AddColumn(#"Extracted Text Before Delimiter1", "MinCompanySize", each Text.BeforeDelimiter([Size], " "), type text),
+    #"Inserted Text Between Delimiters1" = Table.AddColumn(#"Inserted Text Before Delimiter", "MaxCompanySize", each Text.BetweenDelimiters([Size], " ", " ", 1, 0), type text),
+    #"Filtered Rows" = Table.SelectRows(#"Inserted Text Between Delimiters1", each ([Competitors] <> -1)),
+    #"Filtered Rows1" = Table.SelectRows(#"Filtered Rows", each ([Revenue] <> null and [Revenue] <> "") and ([Industry] <> -1)),
+    #"Removed Columns" = Table.RemoveColumns(#"Filtered Rows1",{"Job Description"})
+in
+    #"Removed Columns"
