@@ -18,9 +18,11 @@ For this task we are given a Flat data from Excel (See rawfile) and we are Task 
 
 ### STEP 3 Here's the screenshot of my output before I started data cleaning (See screenshot)
 
-<img src="" width="500" height="300"> <br>
+<img src="Before_transformation.png" width="500" height="300"> <br>
 
 ### STEP 4 Here's the screenshot of my output after I started data cleaning (See screenshot)
+
+<img src="After_transformation.png" width="500" height="300"> <br>
 
 
 
