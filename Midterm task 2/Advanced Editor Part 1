@@ -42,3 +42,14 @@ else [Location]),
     #"Removed Columns" = Table.RemoveColumns(#"Filtered Rows1",{"Job Description"})
 in
     #"Removed Columns"
+
+let
+    Source = Excel.Workbook(File.Contents("C:\Users\Computer LAB\Downloads\MIDTERM TASKLAB 2.xlsx"), null, true),
+    #"Uncleaned_DS_jobs (2)!ExternalData_1_DefinedName" = Source{[Item="Uncleaned_DS_jobs (2)!ExternalData_1",Kind="DefinedName"]}[Data],
+    #"Promoted Headers" = Table.PromoteHeaders(#"Uncleaned_DS_jobs (2)!ExternalData_1_DefinedName", [PromoteAllScalars=true]),
+    #"Split Column by Delimiter" = Table.SplitColumn(#"Promoted Headers", "Company Name", Splitter.SplitTextByDelimiter("#(lf)", QuoteStyle.Csv), {"Company Name.1", "Company Name.2"}),
+    #"Changed Type" = Table.TransformColumnTypes(#"Split Column by Delimiter",{{"Company Name.1", type text}, {"Company Name.2", type number}}),
+    #"Removed Columns" = Table.RemoveColumns(#"Changed Type",{"Company Name.2"}),
+    #"Renamed Columns" = Table.RenameColumns(#"Removed Columns",{{"Company Name.1", "Company Name"}})
+in
+    #"Renamed Columns"
