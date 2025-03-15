@@ -1,16 +1,10 @@
-### <ins>Midterm Lab Task 2 - Data Cleaning and Transformation Using Power Query Editor<ins>
-Company X would like to extract some useful information from the UnclenedDSJObs csv taken
-from a Job Posting site available in Kaggle. There are a lot of columns available but focus only
-on generating insights that will answer the ff:
+### <ins>Midterm Lab Task 3: Creating Pivot Table and Dashboard<ins>
+### Task Description:
+<hr>
+Create a Pivot Table-based dashboard using the provided dataset. Summarize salaries by job role, state, and company size. Design an interactive dashboard highlighting key insights using charts and slicers. Exclude the map visualization if unsupported and replace it with an alternative chart. Apply custom formatting for a polished presentation.
 
 ### Here are your data-cleaning task:
 <hr>
-A. LSalary Estimate Column – Remove All the characters after the ( openparentheses) by GOING to
-B. Create 2 New Columns (From the Salary Estimate) Min Sal and Max Sal <BR>
-C. ADD COLUMN – Role Type <BR>
-D. SPLIT COLUMNS by Delimeter <BR>
-E. Select Location column (SPLIT columns by , Delimeter) <BR>
-F. Copy the APPLIED steps as proof of your Data Cleaning Activities
 
+### Final output (screenshot of the Dashboard):
 
-### Here's the screenshot of my output before I started data cleaning (See screenshot)
