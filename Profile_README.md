@@ -19,3 +19,4 @@ Im a Gamer, Streamer, Youtuber, Kpop, Anime, Vtuber
 ## MY PROJECTS
 - Midterm Lab Task1: <a href=https://github.com/Mathewski77/EDM-Portfolio_Mathew/tree/main/Midterm%20Task%201> Data Cleaning and Preperation using EXCEL </a> 
 - Midterm Lab Task2: <a href=https://github.com/Mathewski77/EDM-Portfolio_Mathew/tree/main/Midterm%20task%202> Data Cleaning and Transformation </a>
+- Midterm Lab Task2: <a href=https://github.com/Mathewski77/EDM-Portfolio_Mathew/tree/main/Midterm%20Task%203> Data Cleaning and Transformation </a>
