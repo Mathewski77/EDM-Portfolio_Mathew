@@ -8,3 +8,4 @@ Create a Pivot Table-based dashboard using the provided dataset. Summarize salar
 
 ### Final output (screenshot of the Dashboard):
 
+<img src="After_transformation.png" width="3000" height="300"> <br>
