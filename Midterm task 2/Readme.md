@@ -13,16 +13,16 @@ E. Select Location column (SPLIT columns by , Delimeter) <BR>
 F. Copy the APPLIED steps as proof of your Data Cleaning Activities
 
 ### Part 2. Reshape and Group the tables:
-A. Create a duplicate of the raw data Right Click Unclean DS Jobs select
+A. Create a duplicate of the raw data Right Click Unclean DS Jobs select <BR>
 duplicate (Queries pane)
-B.Rename the duplicate with “Sal By Role Type dup”
+B.Rename the duplicate with “Sal By Role Type dup” <BR>
 C. Create a reference of the raw data Right Click Unclean DS Jobs
-choose reference (Queries pane)
-D. Rename the reference with “Sal By Role Size ref”
-E. Mapping Other Files and include in the current queries
-F. Create a reference of the raw data Right Click Unclean DS Jobs
-choose reference (Queries pane)
-G. Rename the reference with “Sal By State ref”
+choose reference (Queries pane) <BR>
+D. Rename the reference with “Sal By Role Size ref” <BR>
+E. Mapping Other Files and include in the current queries <BR>
+F. Create a reference of the raw data Right Click Unclean DS Jobs 
+choose reference (Queries pane) <BR>
+G. Rename the reference with “Sal By State ref” <BR>
 
 ### Here's the screenshot of my output before I started data cleaning (See screenshot)
 
