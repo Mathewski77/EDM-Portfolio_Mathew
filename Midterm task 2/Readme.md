@@ -21,4 +21,26 @@ F. Copy the APPLIED steps as proof of your Data Cleaning Activities
 
 <img src="After_transformation.png" width="3000" height="300"> <br>
 
+
+### Here's the screenshot of my output SAL BY ROLE SIZE (See screenshot)
+
+<img src="SAL BY ROLE SIZE.PNG" width="3000" height="300"> <br>
+
+### Here's the screenshot of my output SAL BY ROLE TYPE (See screenshot)
+
+<img src="SAL BY ROLE TYPE.PNG" width="3000" height="300"> <br>
+
+### Here's the screenshot of my output SAL BY STATE.PNG (See screenshot)
+
+<img src="SAL BY STATE.PNG" width="3000" height="300"> <br>
+
+### Here's the screenshot of my output SAL ROLE BY SIZE (See screenshot)
+
+<img src="SAL ROLE BY SIZE.PNG" width="3000" height="300"> <br>
+
+### Here's the screenshot of my output STATES (See screenshot)
+
+<img src="STATES.PNG" width="3000" height="300"> <br>
+
+
 Proof of Data Cleaning Activities: <a href=https://github.com/Mathewski77/EDM-Portfolio_Mathew/blob/main/Midterm%20task%202/Advanced%20Editor%20Part%201> Data Cleaning Activities </a> 
