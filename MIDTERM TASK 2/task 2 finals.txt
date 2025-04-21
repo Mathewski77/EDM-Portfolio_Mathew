@@ -1,0 +1,32 @@
+CREATE DATABASE SAS_DB;
+USE SAS_DB;
+
+CREATE TABLE student_tbl  (
+student_id INT (10) AUTO_INCREMENT PRIMARY KEY UNIQUE,
+user_name VARCHAR (50) NOT NULL
+);
+
+
+CREATE TABLE assignment_tbl (
+assignment_id INT (10) AUTO_INCREMENT PRIMARY KEY UNIQUE,
+short_name VARCHAR (50),
+due_date DATE NOT NULL,
+url VARCHAR (255) NULL
+);
+
+CREATE TABLE submission_tbl(
+student_id INT (10),
+assignment_id INT (10),
+PRIMARY KEY (student_id,assignment_id),
+FOREIGN KEY (student_id) REFERENCES student_tbl (student_id)
+ON UPDATE CASCADE
+ON DELETE RESTRICT,
+FOREIGN KEY (assignment_id) REFERENCES assignment_tbl (assignment_id)
+ON UPDATE CASCADE
+ON DELETE RESTRICT,
+VERSION INT,
+submit_date DATE NOT NULL,
+Subdata TEXT
+);
+DESCRIBE submission_tbl
+
