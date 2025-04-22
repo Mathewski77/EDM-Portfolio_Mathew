@@ -1,30 +1,19 @@
-### <ins>Midterm Lab Task 1 - Data Cleaning and Preparation using Excel<ins>
-For this task we are given a Flat data from Excel (See rawfile) and we are Task to perform Data CLeaning and Preparation
+# **𝓕𝓲𝓷𝓪𝓵𝓼 𝓛𝓪𝓫 𝓣𝓪𝓼𝓴 1: 𝓜𝔂𝓢𝓠𝓛 𝓑𝓪𝓼𝓲𝓬𝓼**-*Event Management*
+ > This repository contains a set of SQL tasks to be performed using MySQL Workbench. The goal is to practice essential SQL operations such as database creation, table management, data manipulation, and querying. All tasks must be executed in MySQL Workbench and completed in the order specified to maintain proper structure and data relationships.
 
-### STEP 1 Data Cleaning process
-<hr>
--Load the raw file <BR>
--Fit Column and row width and height <BR>
--TRIM extra spaces <BR>
--Remove NULL values <BR>
--Remove Duplicates <BR>
+###  Step 1: Create the Events table 👩‍💼👨‍💼
 
-### STEP 2 Normalization
-<hr>
--Performed 1NF <BR>
--Perform Table split using 2NF <BR>
--Perform 3 NF <BR>
--Mapped the Normalized tables as a Physical Data Model <BR>
 
-### STEP 3 Here's the screenshot of my output before I started data cleaning (See screenshot)
+## Step 2: Create the Attendees table
 
-<img src="Before Output.PNG" width="500" height="300"> <br>
+## Step 3: Create the Event Attendees
 
-### STEP 4 Here's the screenshot of my output after I started data cleaning (See screenshot)
+## Step 4 : Crete the Event Sponsors
 
-<img src="After Output.PNG" width="500" height="300"> <br>
+## ER Diagram or Relational Schema
 
-### STEP 5 Here's the screenshot of my Data Model/Relationship
+
+
 
 <img src="DataModel.PNG" width="500" height="300"> <br>
 
