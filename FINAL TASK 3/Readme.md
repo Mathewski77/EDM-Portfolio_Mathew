@@ -6,7 +6,7 @@
 
 ## Step 2: Check Price greater 0
 
-<img src="TASK 2.PNG" width="700" height="300"> <br><HR>
+<img src="TASK2.PNG" width="700" height="300"> <br><HR>
 
 ## Step 3: Insert products
 
