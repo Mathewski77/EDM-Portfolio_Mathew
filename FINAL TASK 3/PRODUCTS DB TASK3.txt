@@ -1,0 +1,28 @@
+CREATE DATABASE products_db;
+USE products_db;
+
+CREATE TABLE products (
+    id INT (10) AUTO_INCREMENT PRIMARY KEY UNIQUE,    
+    product_name VARCHAR(100) NOT NULL,    
+    price DECIMAL(10, 2),
+    CHECK (price > 0)
+);
+
+ALTER TABLE products
+ADD CONSTRAINT price CHECK (price > 0);
+
+
+INSERT INTO products (product_name, price) VALUES
+('Laptop', 999.99),
+('Smartphone', 599.99),
+('Tablet', 299.99),
+('Keyboard', 19.99),
+('Mouse', 14.99),
+('Desk Lamp', 24.99),
+('Speakers', 9.99);
+
+
+ALTER TABLE products
+MODIFY product_name VARCHAR(120);
+
+
