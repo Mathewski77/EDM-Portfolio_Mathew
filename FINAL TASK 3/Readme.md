@@ -10,11 +10,11 @@
 
 ## Step 3: Insert products
 
-<img src="TASK 3.PNG" width="700" height="300"> <br><HR>
+<img src="TASK 3.PNG" width="700" height="500"> <br><HR>
 
 ## Step 4 : Modify product_name length of 120 char
 
-<img src="TASK 4.PNG" width="700" height="300"> <br><HR>
+<img src="TASK 4.PNG" width="700" height="500"> <br><HR>
 
 ## ER Diagram or Relational Schema
 
