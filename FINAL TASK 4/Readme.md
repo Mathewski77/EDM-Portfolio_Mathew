@@ -1,4 +1,4 @@
-# **FINAL LAB TASK 1**-*Table Manipulationt*
+# **FINAL LAB TASK 4**-*USING SELECT STATEMENT*
 
 ###  Problem 1: Retrieve the employee_name and salary of employees and arrange from the highest salary to the lowest. <HR>
 
