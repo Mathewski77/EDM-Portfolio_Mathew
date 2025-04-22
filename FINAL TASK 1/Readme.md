@@ -1,16 +1,24 @@
 # **FINAL LAB TASK 1**-*Event Management*
- > This repository contains a set of SQL tasks to be performed using MySQL Workbench. The goal is to practice essential SQL operations such as database creation, table management, data manipulation, and querying. All tasks must be executed in MySQL Workbench and completed in the order specified to maintain proper structure and data relationships.
 
 ###  Step 1: Create the Events table 👩‍💼👨‍💼
 
+<img src="task 1.PNG" width="500" height="300"> <br>
 
 ## Step 2: Create the Attendees table
 
+<img src="task 2.PNG" width="500" height="300"> <br>
+
 ## Step 3: Create the Event Attendees
+
+<img src="task 3.PNG" width="500" height="300"> <br>
 
 ## Step 4 : Crete the Event Sponsors
 
+<img src="task 4.PNG" width="500" height="300"> <br>
+
 ## ER Diagram or Relational Schema
+
+<img src="task 1.PNG" width="500" height="300"> <br>
 
 
 
