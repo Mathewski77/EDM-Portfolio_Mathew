@@ -15,9 +15,9 @@
 
 ## ER Diagram or Relational Schema
 
-<img src="screenshot ER DIAGRAMS.PNG" width="500" height="300"> <br><HR>
+<img src="ER DIAGRAMS.PNG" width="500" height="300"> <br><HR>
 
 
--Final task 1: <a href=https://github.com/Mathewski77/EDM-Portfolio_Mathew/tree/main/FINAL%20TASK%201/SQL%20COPY%20DATABASE> sql copy of the database and table structures </a>
+-Final task 2: <a href=https://github.com/Mathewski77/EDM-Portfolio_Mathew/tree/main/FINAL%20TASK%201/SQL%20COPY%20DATABASE> sql copy of the database and table structures </a>
 
 
