@@ -1,20 +1,20 @@
 # **FINAL LAB TASK 3**-*Event Management*
 
-###  Step 1: Create the Events table <HR>
+###  Step 1: Create the Products table <HR>
 
-<img src="task 1.PNG" width="700" height="300"> <br><HR>
+<img src="TASK 1.PNG" width="700" height="300"> <br><HR>
 
-## Step 2: Create the Attendees table
+## Step 2: Check Price greater 0
 
-<img src="task 2.PNG" width="700" height="300"> <br><HR>
+<img src="TASK 2.PNG" width="700" height="300"> <br><HR>
 
-## Step 3: Create the Event Attendees
+## Step 3: Insert products
 
-<img src="task 3.PNG" width="700" height="300"> <br><HR>
+<img src="TASK 3.PNG" width="700" height="300"> <br><HR>
 
-## Step 4 : Create the Event Sponsors
+## Step 4 : Modify product_name length of 120 char
 
-<img src="task 4.PNG" width="700" height="300"> <br><HR>
+<img src="TASK 4.PNG" width="700" height="300"> <br><HR>
 
 ## ER Diagram or Relational Schema
 
