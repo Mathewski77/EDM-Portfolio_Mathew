@@ -2,19 +2,19 @@
 
 ###  Step 1: Create the Events table 👩‍💼👨‍💼 <HR>
 
-<img src="task 1.PNG" width="500" height="300"> <br><HR>
+<img src="task 1.PNG" width="700" height="300"> <br><HR>
 
 ## Step 2: Create the Attendees table
 
-<img src="task 2.PNG" width="500" height="300"> <br><HR>
+<img src="task 2.PNG" width="700" height="300"> <br><HR>
 
 ## Step 3: Create the Event Attendees
 
-<img src="task 3.PNG" width="500" height="300"> <br><HR>
+<img src="task 3.PNG" width="700" height="300"> <br><HR>
 
 ## Step 4 : Crete the Event Sponsors
 
-<img src="task 4.PNG" width="500" height="300"> <br><HR>
+<img src="task 4.PNG" width="700" height="300"> <br><HR>
 
 ## ER Diagram or Relational Schema
 
