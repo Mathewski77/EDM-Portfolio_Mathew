@@ -12,7 +12,7 @@
 
 <img src="task 3.PNG" width="700" height="300"> <br><HR>
 
-## Step 4 : Crete the Event Sponsors
+## Step 4 : Create the Event Sponsors
 
 <img src="task 4.PNG" width="700" height="300"> <br><HR>
 
