@@ -1,6 +1,6 @@
 # **FINAL LAB TASK 1**-*Event Management*
 
-###  Step 1: Create the student table 👩‍💼👨‍💼 <HR>
+###  Step 1: Create the student table <HR>
 
 <img src="task 1.PNG" width="700" height="300"> <br><HR>
 
