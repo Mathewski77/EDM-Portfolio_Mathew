@@ -21,6 +21,6 @@
 <img src="screenshot er diagram.PNG" width="500" height="300"> <br><HR>
 
 
-<a href=https://github.com/Mathewski77/EDM-Portfolio_Mathew/tree/main/FINAL%20TASK%201/SQL%20COPY%20DATABASE>
+<a href=https://github.com/Mathewski77/EDM-Portfolio_Mathew/tree/main/FINAL%20TASK%201/SQL%20COPY%20DATABASE> sql copy of the database and table structures </a>
 
 
