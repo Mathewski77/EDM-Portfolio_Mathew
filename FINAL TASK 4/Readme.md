@@ -6,7 +6,7 @@
 
 ## Problem 1: Retrieve the department names along with the average salary for each department table
 
-<img src="RETRIEVE DATA EACH DEPARTMENT SALARY.PNG" width="700" height="300"> <br><HR>
+<img src="RETRIEVE DATA SALARY.PNG" width="700" height="300"> <br><HR>
 
 ## Problem 1:  Retrieve Department, Salary and Calculate total salaryfor each DEPARTMENT
 
