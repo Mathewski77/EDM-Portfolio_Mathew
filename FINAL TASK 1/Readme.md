@@ -18,13 +18,7 @@
 
 ## ER Diagram or Relational Schema
 
-<img src="task 1.PNG" width="500" height="300"> <br>
-
-
-
-
-<img src="DataModel.PNG" width="500" height="300"> <br>
-
+<img src="screenshot er diagram.PNG" width="500" height="300"> <br>
 
 
 
