@@ -17,7 +17,7 @@ Im a Gamer, Streamer, Youtuber, Kpop, Anime, Vtuber
 - A dynamic and rapidly exanping direct selling company in the health,beauty, and wellness industry in the Philippines today
 
 ## MY PROJECTS
-- Midterm Lab Task1: <a href=https://github.com/Mathewski77/EDM-Portfolio_Mathew/tree/main/Midterm%20Task%201> Data Cleaning and Preperation using EXCEL </a> 
+- **Midterm Lab Task 1**: [Data Cleaning and Preparation using Excel](https://github.com/Mathewski77/EDM-Portfolio_Mathew/tree/main/Midterm%20Task%201)
 - Midterm Lab Task2: <a href=https://github.com/Mathewski77/EDM-Portfolio_Mathew/tree/main/Midterm%20task%202> Data Cleaning and Transformation </a>
 - Midterm Lab Task3: <a href=https://github.com/Mathewski77/EDM-Portfolio_Mathew/tree/main/Midterm%20Task%203> Creating Pivot Table and Dashboard </a>
 - Final Lab Task1: <a href=https://github.com/Mathewski77/EDM-Portfolio_Mathew/tree/main/FINAL%20TASK%201> MYSQL Basic Event Management </a>
