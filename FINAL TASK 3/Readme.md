@@ -1,4 +1,4 @@
-# **FINAL LAB TASK 3**-* Table Manipulation*
+# **FINAL LAB TASK 3**-*Table Manipulation*
 
 ###  Step 1: Create the Products table <HR>
 
