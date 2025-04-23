@@ -19,9 +19,9 @@ Im a Gamer, Streamer, Youtuber, Kpop, Anime, Vtuber
 ## MY PROJECTS
 - **Midterm Lab Task 1**: [Data Cleaning and Preparation using Excel](https://github.com/Mathewski77/EDM-Portfolio_Mathew/tree/main/Midterm%20Task%201)
 - **Midterm Lab Task 2**: [Data Cleaning and Transformation](https://github.com/Mathewski77/EDM-Portfolio_Mathew/tree/main/Midterm%20task%202)
-- **Midterm Lab Task 3**: [Creating Pivot Table and Dashboard](https://github.com/Mathewski77/EDM-Portfolio_Mathew/tree/main/FINAL%20TASK%201)
-- **Final Lab Task 1**: [MYSQL Basic Event Management](https://github.com/Mathewski77/EDM-Portfolio_Mathew/tree/main/FINAL%20TASK%202)
-- **Final Lab Task 2**: [Transforming ER into Relational Tables](https://github.com/Mathewski77/EDM-Portfolio_Mathew/tree/main/FINAL%20TASK%203)
-- **Final Lab Task 3**: [Table Manipulation](https://github.com/Mathewski77/EDM-Portfolio_Mathew/tree/main/FINAL%20TASK%204)
-- **Final Lab Task 4**: [Using SELECT statement](https://github.com/Mathewski77/EDM-Portfolio_Mathew/tree/main/Midterm%20Task%201)
+- **Midterm Lab Task 3**: [Creating Pivot Table and Dashboard](https://github.com/Mathewski77/EDM-Portfolio_Mathew/tree/main/Midterm%20Task%203)
+- **Final Lab Task 1**: [MYSQL Basic Event Management](https://github.com/Mathewski77/EDM-Portfolio_Mathew/tree/main/FINAL%20TASK%201)
+- **Final Lab Task 2**: [Transforming ER into Relational Tables](https://github.com/Mathewski77/EDM-Portfolio_Mathew/tree/main/FINAL%20TASK%202)
+- **Final Lab Task 3**: [Table Manipulation](https://github.com/Mathewski77/EDM-Portfolio_Mathew/tree/main/FINAL%20TASK%203)
+- **Final Lab Task 4**: [Using SELECT statement](https://github.com/Mathewski77/EDM-Portfolio_Mathew/tree/main/FINAL%20TASK%204)
   
